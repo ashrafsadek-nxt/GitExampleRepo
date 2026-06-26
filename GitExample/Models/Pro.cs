@@ -2,5 +2,6 @@
 {
     public class Pro
     {
+        int Id { get; set; }
     }
 }
